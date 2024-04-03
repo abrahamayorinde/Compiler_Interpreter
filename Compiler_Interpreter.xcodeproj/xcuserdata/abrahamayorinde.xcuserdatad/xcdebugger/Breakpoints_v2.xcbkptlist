@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "90935195-ACA2-40F5-A180-1DBFC6E306CB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A075F10F-C475-4086-9313-4A64CCE9E0F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Compiler_Interpreter/activationrecordcreator.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "362"
+            endingLineNumber = "362"
+            landmarkName = "ActivationRecordCreator :: visit(asTree)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A075F10F-C475-4086-9313-4A64CCE9E0F7 - 6e6511bbd3eeb9b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ActivationRecordCreator::visit(Node*)"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/activationrecordcreator.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "446"
+                  endingLineNumber = "446"
+                  offsetFromSymbolStart = "6152">
+               </Location>
+               <Location
+                  uuid = "A075F10F-C475-4086-9313-4A64CCE9E0F7 - 6e6511bbd3eeb992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ActivationRecordCreator::visit(Node*)"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/activationrecordcreator.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "445"
+                  endingLineNumber = "445"
+                  offsetFromSymbolStart = "6152">
+               </Location>
+               <Location
+                  uuid = "A075F10F-C475-4086-9313-4A64CCE9E0F7 - 6e6511bbd3eeba79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ActivationRecordCreator::visit(Node*)"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/activationrecordcreator.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "436"
+                  endingLineNumber = "436"
+                  offsetFromSymbolStart = "6152">
+               </Location>
+               <Location
+                  uuid = "A075F10F-C475-4086-9313-4A64CCE9E0F7 - 6e6511bbd3eeb239"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ActivationRecordCreator::visit(Node*)"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/activationrecordcreator.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "372"
+                  endingLineNumber = "372"
+                  offsetFromSymbolStart = "7216">
+               </Location>
+               <Location
+                  uuid = "A075F10F-C475-4086-9313-4A64CCE9E0F7 - 6e6511bbd3eeb4ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ActivationRecordCreator::visit(Node*)"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/activationrecordcreator.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "362"
+                  endingLineNumber = "362"
+                  offsetFromSymbolStart = "6920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB28738D-9ECC-42C4-9FCD-12ACEC796B69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Compiler_Interpreter/activationrecordcreator.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "358"
+            endingLineNumber = "358"
+            landmarkName = "ActivationRecordCreator :: visit(asTree)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82203E7A-C281-414C-B76B-7585C742CB76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Compiler_Interpreter/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "82203E7A-C281-414C-B76B-7585C742CB76 - a64f76594fa6fcd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "82203E7A-C281-414C-B76B-7585C742CB76 - a64f76594fa6fc94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "82203E7A-C281-414C-B76B-7585C742CB76 - a64f76594fa6fcb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Compiler_Interpreter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abrahamayorinde/Documents/Clanguages/Interpreter_Compiler/Compiler_Interpreter/Compiler_Interpreter/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,10 @@
+PROGRAM Part10AST;{Sample program}
+VAR
+   a, b : INTEGER;
+   y    : REAL;
+
+BEGIN
+   a := 2;
+   b := 10 * a + 10 * a DIV 4;
+   y := 20 / 7 + 3.14;
+END.

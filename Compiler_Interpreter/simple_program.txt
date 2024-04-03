@@ -1,0 +1,6 @@
+PROGRAM Part10AST;
+VAR
+   a: INTEGER;
+BEGIN
+   a := 2;
+END.

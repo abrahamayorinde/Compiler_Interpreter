@@ -1,0 +1,23 @@
+program Main;
+
+procedure Alpha(a : integer; b : integer);
+var x : integer;
+begin
+   x := (a + b );
+end;
+
+begin { Main }
+
+  Alpha(3 + 5, 7); {   procedure call }
+
+end.  { Main }
+
+{I need to be able to distinguish between parameters and regular variables in statements}
+{In parameters it needs to be categorized one way and added to a symbol table.  As a variable
+the element needs to be searched for and its value looked up or have its value updated if there is
+an assignment statement.}
+{ARGUMENT PARAMETER -> ATTRIBUTE -}
+
+{VARIABLE ID -> ATTRIBUTE -}
+
+{DECLARATIONS/PROCEDURE/COMPOUNDSTATEMENTS}
